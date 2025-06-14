@@ -1,4 +1,5 @@
 📊 Simple Sales Dashboard using Power BI
+
 🗂️ Project Overview
 This project demonstrates how to design a basic interactive sales dashboard using Power BI, based on a sample sample_sales.csv dataset.
 
