@@ -14,6 +14,7 @@ Monthly Trends
 This helps business users quickly understand key sales patterns and identify top-performing segments.
 
 📈 Key Features
+
 ✅ Visuals Included:
 
 Line Chart — Sales over time (Month-Year)
@@ -82,14 +83,19 @@ Summarize 3–4 key findings in INSIGHTS.txt
 sql
 Copy code
 1️⃣ The West region recorded the highest sales in Q3.
+
 2️⃣ The Technology category generates the highest average sales.
+
 3️⃣ Sales peak towards the end of each year, indicating a strong seasonal pattern.
+
 📌 Tools Used
+
 Power BI Desktop
 
 Optional: Python & Pandas for data cleaning (if needed)
 
 🎯 Outcome
+
 By completing this project, you gain hands-on experience with:
 
 Interactive dashboard design
@@ -99,6 +105,7 @@ Basic data aggregation and visualization
 Communicating business insights visually
 
 📜 License
+
 Open for learning, educational demos, and practice.
 
 ✅ Happy Dashboarding! 🚀
